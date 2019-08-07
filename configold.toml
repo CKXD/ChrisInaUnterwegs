@@ -1,0 +1,4 @@
+baseURL = ""
+languageCode = "us-en"
+title = "My test site"
+theme = "ch_theme"
