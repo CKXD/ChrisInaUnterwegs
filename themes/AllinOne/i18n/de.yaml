@@ -1,0 +1,25 @@
+---
+- id: latestPosts
+  translation: "Letzter Eintrag"
+
+- id: pageNotFound
+  translation: "Oops! Nix gefunde..."
+
+- id: readingTime
+  translation:
+    one: "Nur 'ne Minute'"
+    other: "{{ .Count }} Minuten ab jetzt"
+
+- id: return
+  translation: "zurück"
+
+- id: previousPost
+  translation: "Vorherige"
+  
+- id: nextPost
+  translation: "Nächste"  
+
+- id: postCount
+  translation: 
+    one: "Ein Beitrag"
+    other: "{{ .Count }} Beiträge"

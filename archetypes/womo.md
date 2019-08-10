@@ -1,9 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 km: km
 ort: Iserlohn
-category: [Wohnmobil]
-tags: [Wohnmobiltour, CaradoV337]
+categories: [Wohnmobiltour]
+tags: [Wohnmobil]
+series: [Sommertour 2019]
 ---
+
+### Überschrift
+
+Text beginnt hier
